@@ -1,10 +1,10 @@
 # FYSETC-Prusa-MK3S-clone
-FYSETC Prusa MK3S clone Kit Database
+FYSETC Prusa MK3S clone Kit Information
 
 ![image-Prusa MK3S](/Prusa_MK3S.jpg)
-1.Prusa MK3S STL file update 2020.7.10
-These print files are suitable for FYSETC prusa MK3S 3D printer. Compared with the official printed parts, we have added three parts: PSU-cover-MK3_bottom, PSU-cover-MK3_top, and Spool-holder.The other parts are the same as the official Prusa MK3S. 
-You can also get it here：
+1.Prusa MK3S+ STL file updates 2020.7.10
+These STL files are compatible with the FYSETC prusa MK3S+ 3D printer kit. When compared to the official kit from Prusa, we have added three parts: PSU-cover-MK3_bottom, PSU-cover-MK3_top, and Spool-holder. All the other parts are the same as the official MK3S+ from Prusa. 
+You can also download the files here：
 https://www.thingiverse.com/thing:4728793
 
 2.Prusa MK3S assembly tutorial  
